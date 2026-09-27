@@ -2,6 +2,8 @@
 
 供 Codex 用户翻译自己提供的英文心理学书籍 PDF。它按章建立术语表、生成中文 Markdown 阅读稿，并要求逐页对照原文；对扫描不清、图表缺损或无法确认的译名，留下明确记录。适用于理论、研究方法、临床及大众心理学书籍，但每本书都要依其语境决定最终译法。
 
+核心文件：[翻译 Skill](skills/psychology-book-translation/SKILL.md) · [精选术语参考](skills/psychology-book-translation/references/seed-glossary.md) · [审校指南](skills/psychology-book-translation/references/psychology-translation-guide.md)。
+
 ## 安装
 
 在 Codex 对话中调用 `$skill-installer`，并提供以下信息：
