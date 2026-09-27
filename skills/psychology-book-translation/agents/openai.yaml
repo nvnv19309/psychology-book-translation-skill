@@ -1,0 +1,7 @@
+interface:
+  display_name: "心理学书籍精翻"
+  short_description: "英文心理学 PDF 分章精翻与逐页审校"
+  default_prompt: "使用 $psychology-book-translation 翻译这本英文心理学书，建立术语表并逐页核对。"
+
+policy:
+  allow_implicit_invocation: true
